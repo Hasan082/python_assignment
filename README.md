@@ -14,3 +14,8 @@ The Single Inheritance assignment involves implementing classes that demonstrate
 ### Multi-Level Inheritance Assignment
 
 The Multi-Level Inheritance assignment demonstrates the concept of multi-level inheritance in Python. It involves creating a hierarchy of classes where each subclass inherits from another subclass, forming a multi-level inheritance chain. This assignment illustrates how inheritance can be used to build complex class hierarchies and share functionality across multiple levels of subclasses.
+
+
+### Recursion Assignment
+
+The Recursion assignment focuses on exploring the concept of recursion in Python programming. Recursion involves a function calling itself, allowing for elegant solutions to problems that can be broken down into smaller, similar subproblems. This assignment includes examples of recursive functions that solve various problems, such as computing factorials, generating Fibonacci sequences, traversing trees, and solving other divide-and-conquer algorithms. Through this assignment, students gain a deeper understanding of recursion and its applications in solving complex problems efficiently.
