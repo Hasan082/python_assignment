@@ -1,0 +1,10 @@
+laptop: silver
+smartphone: black
+tablet: white
+television: black
+headphones: black, white
+smartwatch: silver, black
+camera: black
+printer: white
+speaker: black, gray
+router: black

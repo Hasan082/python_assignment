@@ -7,9 +7,12 @@ def custom_decorator(func):
     return inner
 
 # Custom decorator function
+
+
 @custom_decorator
 def division(a, b):
     c = a / b
     return c
+
 
 print(division(10, 0))

@@ -1,0 +1,6 @@
+silver: laptop
+black: smartphone, television, camera, router
+white: tablet, printer
+black, white: headphones
+silver, black: smartwatch
+black, gray: speaker
